@@ -2,4 +2,5 @@
 
 	Olá bem vindo ao meu livro de receitas.
 	
-	 - Strogonoff de carne 
+	 - Strogonoff de carne
+	 - Pavê

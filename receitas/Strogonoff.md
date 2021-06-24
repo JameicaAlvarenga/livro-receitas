@@ -1,4 +1,4 @@
-##Strogonoff de carne
+##Strogonoff de carne 
 
 **Ingredientes
 500 g de carne em tiras finas filé mignon, contra-filé
